@@ -1,14 +1,13 @@
 # Data Analyst
 
 # Education
-**Athens University of Economics and Business** | Expected June 2026
-Bachelor of Science, Statistics | (Current) GPA: 6.72/10
+B.S., Statistics | **Athens University of Economics and Business** | Expected June 2026
 Relevant courses:
 - Data Analysis
 - Statistical Quality Control
 
 **Vocational Upper Secondary School (EPAL) of Vasilika**, Thessaloniki | June 2022
-Admin of Administration and Financial Services, Level 4 Diploma| GPA: 19.1/20
+Admin of Administration and Financial Services, Level 4 Diploma | GPA: 19.1/20
 
 # Skills
 Programming: R, SQL, LaTeX
